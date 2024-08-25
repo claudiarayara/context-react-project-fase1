@@ -6,21 +6,22 @@ Para executar este projeto:
 ```
 cd context-react-project-fase1
 ```
-![Captura de tela 2024-08-25 013125](https://github.com/user-attachments/assets/2d2009b8-54bb-46fe-9370-48ceeeaf16d4)
+![Captura de tela 2024-08-25 021808](https://github.com/user-attachments/assets/5d28fae3-1e9e-4e07-9260-e4c5d4706b16)
+
 
 
 2. Rode npm install para instalar as dependências do projeto:
 ```
 npm install
 ```
-![Captura de tela 2024-08-25 013247](https://github.com/user-attachments/assets/ed5e00a1-a5b2-4276-a6d4-e677086c229d)
-
+![Captura de tela 2024-08-25 021854](https://github.com/user-attachments/assets/1b90bc17-7426-4b99-a948-653258c062ad)
 
 3. E em seguida use no terminal o comando npm run dev, para iniciar a execução do projeto e abra o link segurando ctrl e clicando nele:
 ```
 npm run dev
 ```
-![Captura de tela 2024-08-25 020625](https://github.com/user-attachments/assets/46af4c81-785d-45e8-8e8c-2d3cbd674c1d)
+
+![Captura de tela 2024-08-25 021929](https://github.com/user-attachments/assets/3e904db9-7341-43ef-94c3-ccb5b8c1f8f6)
 
 ![Captura de tela 2024-08-25 013314](https://github.com/user-attachments/assets/387e900b-264e-41cc-af6b-04eb32ce4329)
 
