@@ -2,7 +2,7 @@
 
 Para executar este projeto:
 
-1. Verifique se esta na pasta context-react-project-fase1 no terminal, caso náo esteja entre na pasta usando:
+1. Verifique se esta na pasta context-react-project-fase1 no terminal, caso não esteja entre na pasta usando:
 ```
 cd context-react-project-fase1
 ```
@@ -20,7 +20,10 @@ npm install
 ```
 npm run dev
 ```
+![Captura de tela 2024-08-25 020625](https://github.com/user-attachments/assets/46af4c81-785d-45e8-8e8c-2d3cbd674c1d)
+
 ![Captura de tela 2024-08-25 013314](https://github.com/user-attachments/assets/387e900b-264e-41cc-af6b-04eb32ce4329)
+
 ![Captura de tela 2024-08-25 013327](https://github.com/user-attachments/assets/7529777e-e93c-4678-b8f6-5a2c73fd63e7)
 
 
